@@ -1,0 +1,10 @@
+.aceTitle::after {
+  content: "";
+  position: absolute;
+  background-color: #2371b9;
+  height: 4px;
+  width: 90px;
+  top: 40px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
